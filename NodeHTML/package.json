@@ -1,0 +1,16 @@
+{
+  "name": "node-html",
+  "version": "0.0.0",
+  "description": "NodeHTML",
+  "main": "app.js",
+  "author": {
+    "name": "dell"
+  },
+  "devDependencies": {
+    "@types/node": "^6.0.96",
+    "vue": "^2.5.13"
+  },
+  "dependencies": {
+    "vue-cli": "^2.9.2"
+  }
+}
